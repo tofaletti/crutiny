@@ -11,7 +11,7 @@ class ChargerController extends ActiveRecord{
         isAuth();
 
         $router->render('charger/index', [
-            'titulo' => 'Inicio'
+            'titulo' => 'Provincial'
         ]);
     }
 

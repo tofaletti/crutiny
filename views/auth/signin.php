@@ -13,7 +13,7 @@
                     id="name"
                     placeholder="Nombre de Usuario"
                     name="name"
-                    value="<?php echo $usuario->name; ?>"
+                    value=""
                 />
             </div>
 

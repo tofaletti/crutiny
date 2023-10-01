@@ -1,6 +1,6 @@
 <?php
 
-$db = mysqli_connect('localhost', 'root', '', 'crutiny');
+$db = mysqli_connect('localhost', 'root', 'root', 'crutiny');
 
 
 if (!$db) {
